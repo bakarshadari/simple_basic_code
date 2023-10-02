@@ -8,7 +8,7 @@ public class Main {
 	// write your code here
         //creating variable
        int sum;
-       // scaner is used to get user input 
+       // scanner is used to get user input 
         Scanner input = new Scanner(System.in);
         //telling user what she/he do
         System.out.println("enter number 1");
